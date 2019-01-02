@@ -18,7 +18,7 @@ class Account:
         return self.balance
 
 
-"""initital ammount"""
+"""initial amount"""
 balance = 500
 
 account1 = Account(balance)
